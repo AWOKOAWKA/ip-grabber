@@ -1,3 +1,8 @@
+#### [🔗 Discord Link](https://discord.gg/zzugRm6Sbk) - [📖 Terms](https://github.com/Dev-Golem/ip-grabber#Legal Notice) - [💡 Features](https://github.com/Dev-Golem/ip-grabber#Infomation)
+
+# Support
+if you need support join the server and create a ticket
+
 # Discord IP Grabber
 Grabs a targets IP address and sends it along with its information through a discord webhook.
 

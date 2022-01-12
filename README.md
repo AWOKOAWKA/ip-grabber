@@ -1,4 +1,4 @@
-#### [🔗 Discord Link](https://discord.gg/zzugRm6Sbk) - [📖 Terms]("https://github.com/Dev-Golem/ip-grabber#Legal Notice") - [💡 Features](https://github.com/Dev-Golem/ip-grabber#Infomation)
+#### [🔗 Discord Link](https://discord.gg/zzugRm6Sbk) - [📖 Terms](https://github.com/Dev-Golem/ip-grabber#Legal-Notice) - [💡 Features](https://github.com/Dev-Golem/ip-grabber#Infomation)
 
 # Support
 if you need support join the server and create a ticket
@@ -25,5 +25,5 @@ pip install datetime
 3. (Optional) Compile the file into a exe, dont know how? https://www.youtube.com/watch?v=UZX5kH72Yx4.
 4. Done.
 
-## Legal Notice
+## Legal-Notice
 This is illegal if you use this without the consent of the owners (in this case, the Discord team). I am not accountable for anything you get into. This is 100% educational, please do not misuse this tool.

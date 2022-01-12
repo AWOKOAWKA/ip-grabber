@@ -1,4 +1,4 @@
-#### [🔗 Discord Link](https://discord.gg/zzugRm6Sbk) - [📖 Terms](https://github.com/Dev-Golem/ip-grabber#Legal Notice) - [💡 Features](https://github.com/Dev-Golem/ip-grabber#Infomation)
+#### [🔗 Discord Link](https://discord.gg/zzugRm6Sbk) - [📖 Terms]("https://github.com/Dev-Golem/ip-grabber#Legal Notice") - [💡 Features](https://github.com/Dev-Golem/ip-grabber#Infomation)
 
 # Support
 if you need support join the server and create a ticket
